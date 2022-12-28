@@ -5,7 +5,7 @@ spring:
     config:
       server: 
         git:
-          default-label:
+          default-label: master
           uri: https://github.com/Klonoire/smart-java-poc
           search-paths: config-data
   application:
